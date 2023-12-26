@@ -36,15 +36,21 @@ Stability in no charge and dispute incidents provides insights into service-rela
 
 Data-Driven Marketing:
 Recommendations based on data insights for targeted marketing efforts.
+
 Repository Contents:
+
 Jupyter Notebooks:
 Detailed code and analysis notebooks.
+
 Data Files:
 Original and cleaned datasets used for analysis.
+
 Visualizations:
 Output visualizations from the analysis.
+
 How to Use:
 Clone the repository to your local machine.
 Explore the Jupyter notebooks for detailed analysis.
 Refer to visualizations for key insights.
+
 Feel free to contribute, provide feedback, or use the analysis for your projects!
